@@ -6,7 +6,7 @@ Screen Time Analysis is the task of analyzing and creating a report on which app
 Apple devices have one of the best ways of creating a screen time report.
 
 For the task of screen time analysis, I found an ideal dataset that contains data about:
-Date 
-Usage of Applications 
-Number of Notifications from Applications 
-Number of times apps opened
+Date,
+Usage of Applications,
+Number of Notifications from Applications, 
+Number of times apps opened.
